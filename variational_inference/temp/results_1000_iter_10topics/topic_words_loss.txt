@@ -1,0 +1,113 @@
+Iterations: 1000
+1146.7770830839158
+
+topic 0:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+                  gl  	---	  0.0000
+              valves  	---	  0.0000
+            deposits  	---	  0.0000
+                 24x  	---	  0.0000
+             calcium  	---	  0.0000
+          depression  	---	  0.0000
+             laissez  	---	  0.0000
+topic 1:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+                 24x  	---	  0.0000
+               eprom  	---	  0.0000
+          depression  	---	  0.0000
+                  gl  	---	  0.0000
+              valves  	---	  0.0000
+            deposits  	---	  0.0000
+             calcium  	---	  0.0000
+topic 2:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+             laissez  	---	  0.0000
+             calcium  	---	  0.0000
+                  gl  	---	  0.0000
+          monostable  	---	  0.0000
+              valves  	---	  0.0000
+            deposits  	---	  0.0000
+                 24x  	---	  0.0000
+topic 3:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+                 24x  	---	  0.0000
+                  gl  	---	  0.0000
+            deposits  	---	  0.0000
+             laissez  	---	  0.0000
+                8088  	---	  0.0000
+              valves  	---	  0.0000
+             calcium  	---	  0.0000
+topic 4:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+            deposits  	---	  0.0000
+          depression  	---	  0.0000
+                  gl  	---	  0.0000
+                 24x  	---	  0.0000
+             laissez  	---	  0.0000
+              valves  	---	  0.0000
+             calcium  	---	  0.0000
+topic 5:
+                   .  	---	  0.0495
+                 the  	---	  0.0349
+                   ,  	---	  0.0290
+                  to  	---	  0.0176
+                  of  	---	  0.0147
+                   a  	---	  0.0135
+                 and  	---	  0.0132
+                   -  	---	  0.0110
+                   '  	---	  0.0109
+                  in  	---	  0.0108
+topic 6:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+            deposits  	---	  0.0000
+              valves  	---	  0.0000
+             calcium  	---	  0.0000
+                 24x  	---	  0.0000
+             laissez  	---	  0.0000
+                  gl  	---	  0.0000
+          depression  	---	  0.0000
+topic 7:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+                 24x  	---	  0.0000
+                  gl  	---	  0.0000
+            deposits  	---	  0.0000
+             minivan  	---	  0.0000
+              valves  	---	  0.0000
+             laissez  	---	  0.0000
+             calcium  	---	  0.0000
+topic 8:
+                xgif  	---	  0.0000
+                  ~~  	---	  0.0000
+           assembler  	---	  0.0000
+              valves  	---	  0.0000
+                 24x  	---	  0.0000
+             calcium  	---	  0.0000
+             laissez  	---	  0.0000
+                  gl  	---	  0.0000
+            deposits  	---	  0.0000
+          depression  	---	  0.0000
+topic 9:
+                 det  	---	  0.0000
+                 tor  	---	  0.0000
+                 pit  	---	  0.0000
+                 phi  	---	  0.0000
+                 buf  	---	  0.0000
+                 que  	---	  0.0000
+                hull  	---	  0.0000
+                 col  	---	  0.0000
+                 406  	---	  0.0000
+                 520  	---	  0.0000

@@ -1,0 +1,113 @@
+Iterations: 100
+Loss: 1978.705862897774
+
+topic 0:
+                   .  	---	  0.0000
+                   ,  	---	  0.0000
+                   a  	---	  0.0000
+                   i  	---	  0.0000
+                 and  	---	  0.0000
+      outraged...why  	---	  0.0000
+              key.''  	---	  0.0000
+             recound  	---	  0.0000
+          department  	---	  0.0000
+                 any  	---	  0.0000
+topic 1:
+      _one_of_which_  	---	  0.0000
+               [KK]	  	---	  0.0000
+               FUBAR  	---	  0.0000
+          succinctly  	---	  0.0000
+            nutters.  	---	  0.0000
+               >>yes  	---	  0.0000
+           reporters  	---	  0.0000
+       >"accidently"  	---	  0.0000
+              True..  	---	  0.0000
+           Terminals  	---	  0.0000
+topic 2:
+                 DW.  	---	  0.0000
+           article's  	---	  0.0000
+          marriages?  	---	  0.0000
+           majestati  	---	  0.0000
+               Quoth  	---	  0.0000
+              [1965]  	---	  0.0000
+          girlfriend  	---	  0.0000
+            Phishnet  	---	  0.0000
+       megalomania."  	---	  0.0000
+    `whistleblowers'  	---	  0.0000
+topic 3:
+            Cornwall  	---	  0.0000
+            merknaam  	---	  0.0000
+                 >WE  	---	  0.0000
+               gummy  	---	  0.0000
+                  5A  	---	  0.0000
+             >>CNN's  	---	  0.0000
+             didn't;  	---	  0.0000
+            stupid..  	---	  0.0000
+          "something  	---	  0.0000
+            glowing.  	---	  0.0000
+topic 4:
+         >>"abortion  	---	  0.0000
+            10/29/91  	---	  0.0000
+               >>>by  	---	  0.0000
+              Alias?  	---	  0.0000
+              hasn't  	---	  0.0000
+               :>Are  	---	  0.0000
+                era.  	---	  0.0000
+           |>deserve  	---	  0.0000
+                1.09  	---	  0.0000
+                Jon!  	---	  0.0000
+topic 5:
+                   .  	---	  0.0339
+                 the  	---	  0.0184
+                   ,  	---	  0.0154
+                  to  	---	  0.0096
+                   -  	---	  0.0081
+                  of  	---	  0.0080
+                 and  	---	  0.0077
+                   a  	---	  0.0077
+                   '  	---	  0.0068
+                   >  	---	  0.0065
+topic 6:
+               <work  	---	  0.0000
+               	June  	---	  0.0000
+               12.6)  	---	  0.0000
+             (Text)"  	---	  0.0000
+                "Ask  	---	  0.0000
+            uraniums  	---	  0.0000
+           "preach,"  	---	  0.0000
+              RIPEMs  	---	  0.0000
+            beasts):  	---	  0.0000
+             "shrewd  	---	  0.0000
+topic 7:
+          Wavetracer  	---	  0.0000
+        duly-elected  	---	  0.0000
+               _with  	---	  0.0000
+               sweet  	---	  0.0000
+         >disrepute?  	---	  0.0000
+            biliquid  	---	  0.0000
+             minivan  	---	  0.0000
+              (begin  	---	  0.0000
+#frank@D012S658.uucp  	---	  0.0000
+                Q950  	---	  0.0000
+topic 8:
+                 MVT  	---	  0.0000
+            falling"  	---	  0.0000
+          call_data;  	---	  0.0000
+        customizable  	---	  0.0000
+          Stankowitz  	---	  0.0000
+             bore...  	---	  0.0000
+           '80's....  	---	  0.0000
+                 rev  	---	  0.0000
+               NASAs  	---	  0.0000
+              lower.  	---	  0.0000
+topic 9:
+               bails  	---	  0.0000
+          Seychelles  	---	  0.0000
+            once.:-)  	---	  0.0000
+         $(TOP)/util  	---	  0.0000
+            452-1129  	---	  0.0000
+              Plague  	---	  0.0000
+         seventeenth  	---	  0.0000
+        Microdevices  	---	  0.0000
+              >'just  	---	  0.0000
+              Barrak  	---	  0.0000

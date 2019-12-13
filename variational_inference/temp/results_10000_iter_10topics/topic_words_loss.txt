@@ -1,0 +1,113 @@
+Iterations: 10000
+Loss: 1091.1956858200476
+
+topic 0:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+          candidates  	---	  0.0000
+            election  	---	  0.0000
+topic 1:
+                   .  	---	  0.0496
+                 the  	---	  0.0330
+                   ,  	---	  0.0287
+                  to  	---	  0.0173
+                  of  	---	  0.0144
+                   a  	---	  0.0134
+                 and  	---	  0.0127
+                   >  	---	  0.0118
+                   '  	---	  0.0110
+                   -  	---	  0.0110
+topic 2:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+          candidates  	---	  0.0000
+            election  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+topic 3:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+          candidates  	---	  0.0000
+            election  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+topic 4:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+            election  	---	  0.0000
+                0598  	---	  0.0000
+          candidates  	---	  0.0000
+                seca  	---	  0.0000
+topic 5:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+            election  	---	  0.0000
+          candidates  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+topic 6:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+          candidates  	---	  0.0000
+            election  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+topic 7:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+          candidates  	---	  0.0000
+                seca  	---	  0.0000
+                0598  	---	  0.0000
+            election  	---	  0.0000
+topic 8:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+          candidates  	---	  0.0000
+                0598  	---	  0.0000
+            election  	---	  0.0000
+                seca  	---	  0.0000
+topic 9:
+              resign  	---	  0.0000
+              wattle  	---	  0.0000
+            refunded  	---	  0.0000
+               cview  	---	  0.0000
+                 #|>  	---	  0.0000
+              photos  	---	  0.0000
+                0598  	---	  0.0000
+            election  	---	  0.0000
+                seca  	---	  0.0000
+          candidates  	---	  0.0000
