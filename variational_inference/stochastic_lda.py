@@ -130,7 +130,7 @@ class SVILDA():
 				doc_probability = [n.log(aux[k]) * parseddoc[1][k] for k in range(len(aux))]
 				results[i][j] = sum(doc_probability) + n.log(prob_topics[j])
 		finalresults = n.zeros(len(docs))
-		for k in range(len(docs)):
+		for k in tqdm(range(len(docs))):
 			finalresults[k] = n.argmax(results[k])
 		print(finalresults, prob_topics)
 		return finalresults, prob_topics
@@ -152,7 +152,10 @@ class SVILDA():
 			perplexity += log_doc_prob
 			doclen += len(newdoc)
 			# print perplexity, doclen
-		perplexity = n.exp( - perplexity / doclen)
+		if doclen == 0:
+			perpexity = 0
+		else:
+			perplexity = n.exp( - perplexity / doclen)
 		print(perplexity)
 		return perplexity
 
