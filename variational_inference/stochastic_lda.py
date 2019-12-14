@@ -3,7 +3,9 @@ import numpy as n
 from scipy.special import psi
 from nltk.tokenize import wordpunct_tokenize
 from utils import *
+from tqdm import tqdm
 # import matplotlib.pyplot as plt
+
 
 n.random.seed(10000001)
 meanchangethresh = 1e-3
@@ -14,6 +16,7 @@ MAXITER = 10000
 class SVILDA():
 	def __init__(self, vocab, K, D, alpha, eta, tau, kappa, docs, iterations, parsed = False):
 		self._vocab = vocab
+		# print('vocabb', self._vocab)
 		self._V = len(vocab)
 		self._K = K
 		self._D = D
@@ -28,7 +31,7 @@ class SVILDA():
 		self.ct = 0
 		self._iterations = iterations
 		self._parsed = parsed
-		print(self._lambda.shape)
+		print('topics, vocab size', (self._K, self._V))
 		self._trace_lambda = {}
 		for i in range(self._K):
 			self._trace_lambda[i] = [self.computeProbabilities()[i]]
@@ -50,7 +53,13 @@ class SVILDA():
 
 		for i in range(self._iterations):
 			for m, word in enumerate(newdoc):
-				phi_d[:, m] = n.multiply(expElogtheta_d, self._expElogbeta[:, word]) + 1e-100
+				try:
+					a = self._expElogbeta[:, word] #size [num topics, num vocab words]
+				except:
+					print('word', word)
+
+					raise Exception
+				phi_d[:, m] = n.multiply(expElogtheta_d, a) + 1e-100
 				phi_d[:, m] = phi_d[:, m]/n.sum(phi_d[:, m])
 
 			gamma_new = self._alpha + n.sum(phi_d, axis = 1)
@@ -112,7 +121,8 @@ class SVILDA():
 		if docs == None:
 			docs = self._docs
 		results = n.zeros((len(docs), self._K))
-		for i, doc in enumerate(docs):
+		print('getting topics')
+		for i, doc in tqdm(enumerate(docs)):
 			parseddoc = parseDocument(doc, self._vocab)
 
 			for j in range(self._K):
@@ -130,7 +140,7 @@ class SVILDA():
 		doclen = 0.
 		if docs == None:
 			docs =  self._docs
-		for doc in docs:
+		for doc in tqdm(docs):
 			parseddoc = parseDocument(doc, self._vocab)
 			_, newdoc, gamma_d = self.updateLocal(parseddoc)
 			approx_mixture = n.dot(gamma_d, self._lambda)
@@ -172,10 +182,11 @@ def test(k, iterations):
 	# print([_ for _ in vocab.keys()][[_ for _ in vocab.values()].index(158972)])
 	perplexity = testset.calcPerplexity(docs = heldoutdocs)
 	print('perplexed')
+	print('generating best words')
 
 	with open("temp/%i_%i_%f_results.csv" %(k, iterations, perplexity), "w+") as f:
 		writer = csv.writer(f)
-		for i in range(k):
+		for i in tqdm(range(k)):
 			bestwords = sorted(range(len(finallambda[i])), key=lambda j:finallambda[i, j])
 			# print bestwords
 			bestwords.reverse()
@@ -253,6 +264,10 @@ def main():
 	if mode == "normal":
 		assert vocab is not None, "no vocab"
 		assert docs is not None, "no docs"
+		# print('vee', len(vocab))
+		# print(vocab)
+		# return #142751 is out of bounds for axis 1 with size 130064
+
 		D = len(docs)
 		docs = getalldocs(docs)
 		vocab = getVocab(vocab)

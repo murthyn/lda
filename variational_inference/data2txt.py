@@ -14,7 +14,7 @@ out_file2 = open('alldocs2.txt', 'w')
 csv_file = open('vocab.csv', 'w')
 csv_writer = csv.writer(csv_file)
 master_vocab = set()
-c = 0
+
 
 # print('l', [_ for _ in os.walk("20newsgroups")])
 for root, dirs, files in tqdm(os.walk("20newsgroups")):
@@ -27,17 +27,18 @@ for root, dirs, files in tqdm(os.walk("20newsgroups")):
                     print(c, os.path.join(root, file))
                     continue
                 # print(read_file)
-                vocab = set([elt for elt in read_file if elt is not None and 0 < len(elt) <= 20])
+                vocab = set([elt for elt in read_file if elt is not None])
                 # print(vocab)
                 for elt in vocab:
-                    master_vocab.add(elt)
+                    # master_vocab.add(elt.strip('<>,^/|."}*[{]'))
+                    cleaned = ''.join([i for i in elt if i.isalpha()])
+                    if cleaned not in stop_words and 2 < len(cleaned):
+                        master_vocab.add(cleaned)
 
-                c += 1
             file_names.append(os.path.join(root, file))
 
 for elt in master_vocab:
-    if elt not in stop_words:
-        csv_writer.writerow([elt])
+    csv_writer.writerow([elt])
 
 random.shuffle(file_names)
 print(len(file_names))
