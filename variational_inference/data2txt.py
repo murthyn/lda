@@ -2,9 +2,12 @@ import os
 import re
 import csv
 import random
+from nltk.corpus import stopwords
 from tqdm import tqdm
 
 file_names = []
+stop_words = set(stopwords.words('english'))
+print(stop_words)
 
 out_file1 = open('alldocs.txt', 'w')
 out_file2 = open('alldocs2.txt', 'w')
@@ -31,9 +34,10 @@ for root, dirs, files in tqdm(os.walk("20newsgroups")):
 
                 c += 1
             file_names.append(os.path.join(root, file))
-            
+
 for elt in master_vocab:
-    csv_writer.writerow([elt])
+    if elt not in stop_words:
+        csv_writer.writerow([elt])
 
 random.shuffle(file_names)
 print(len(file_names))

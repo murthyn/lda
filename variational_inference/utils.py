@@ -1,12 +1,13 @@
 import sys, csv
 from nltk.tokenize import wordpunct_tokenize
+from nltk.corpus import stopwords
 from scipy.special import psi
 import numpy as n
 import matplotlib.pyplot as plt
 
 LISTOFDOCS = "alldocs.txt"
 
-
+stop_words = set(stopwords.words('english'))
 filenames = []
 
 def get_filenames(filename):
@@ -89,7 +90,8 @@ def getVocab(file):
 	with open(file, 'r') as infile:
 		reader = csv.reader(infile)
 		for index, row in enumerate(reader):
-			vocab[row[0]] = index
+			if row[0] not in stop_words:
+				vocab[row[0]] = index
 	# print(vocab)
 	return vocab
 
@@ -100,7 +102,7 @@ def plottrace(x, Y, K, n, perp):
 
 	plt.xlabel("Number of Iterations")
 	plt.ylabel("Probability of Each topic")
-	plt.legend()
+	# plt.legend()
 	plt.title("Trace plot for topic probabilities")
 	plt.savefig("temp/plot_%i_%i_%f.png" %(K, n, perp))
 # 
