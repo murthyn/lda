@@ -9,6 +9,7 @@ LISTOFDOCS = "alldocs.txt"
 
 stop_words = set(stopwords.words('english'))
 filenames = []
+nltk.download('stopwords')
 
 def get_filenames(filename):
 	print("getting filenames")
