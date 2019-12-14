@@ -14,7 +14,7 @@ out_file2 = open('alldocs2.txt', 'w')
 csv_file = open('vocab.csv', 'w')
 csv_writer = csv.writer(csv_file)
 master_vocab = set()
-
+c = 0
 
 # print('l', [_ for _ in os.walk("20newsgroups")])
 for root, dirs, files in tqdm(os.walk("20newsgroups")):
@@ -23,6 +23,7 @@ for root, dirs, files in tqdm(os.walk("20newsgroups")):
             with open(os.path.join(root, file)) as f:
                 try:
                     read_file = re.split(' |, |\n|: |(|)', f.read())
+
                 except:
                     print(c, os.path.join(root, file))
                     continue
@@ -34,6 +35,7 @@ for root, dirs, files in tqdm(os.walk("20newsgroups")):
                     cleaned = ''.join([i for i in elt if i.isalpha()])
                     if cleaned not in stop_words and 2 < len(cleaned):
                         master_vocab.add(cleaned)
+                 c += 1
 
             file_names.append(os.path.join(root, file))
 
