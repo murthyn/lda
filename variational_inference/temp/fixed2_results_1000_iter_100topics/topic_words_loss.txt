@@ -1,0 +1,1120 @@
+Iterations: 1000
+Loss: 8127.69143499945
+
+[0.00590575 0.00590575 0.00590572 0.00590574 0.00590573 0.00590575
+ 0.23958361 0.00590576 0.00590572 0.01904281 0.01579565 0.00591201
+ 0.00932639 0.00590575 0.0308546  0.01231383 0.00590575 0.00910174
+ 0.00939325 0.01343153 0.00590574 0.00864153 0.00590576 0.00590576
+ 0.07749557 0.01029981 0.00590578 0.00590577 0.00590576 0.00590575
+ 0.00590575 0.00783969 0.01075324 0.00590577 0.00590575 0.00590577
+ 0.01520018 0.00590572 0.00590578 0.00590574 0.00590577 0.00590577
+ 0.00590576 0.0059058  0.00590573 0.00590573 0.00590572 0.00590574
+ 0.00590577 0.00590577 0.00590578 0.00590577 0.00590577 0.00590575
+ 0.00590571 0.00590574 0.00590578 0.00986447 0.00590577 0.00590576
+ 0.00590575 0.00590575 0.00590575 0.00590578 0.00590577 0.00590576
+ 0.00590573 0.01062596 0.00590575 0.00590574 0.00590573 0.00590575
+ 0.00590572 0.00590578 0.00590578 0.00590579 0.00590575 0.00590573
+ 0.00590572 0.00590575 0.00613567 0.00590573 0.00590574 0.00590576
+ 0.00590573 0.00592834 0.00590574 0.00590575 0.00590575 0.00590575
+ 0.00590574 0.00590576 0.00590577 0.0059057  0.00590578 0.00590577
+ 0.00590579 0.00590576 0.00590576 0.00590572]
+topic 0:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 1:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 2:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 3:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 4:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 5:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 6:
+                 one  	---	  0.0116
+              writes  	---	  0.0114
+               would  	---	  0.0099
+             article  	---	  0.0092
+                dont  	---	  0.0065
+                like  	---	  0.0060
+              people  	---	  0.0060
+               think  	---	  0.0060
+                know  	---	  0.0056
+                time  	---	  0.0053
+topic 7:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 8:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 9:
+               women  	---	  0.0094
+             israeli  	---	  0.0088
+          conference  	---	  0.0082
+             turkish  	---	  0.0081
+           neighbors  	---	  0.0069
+                 ten  	---	  0.0059
+            soldiers  	---	  0.0057
+               greek  	---	  0.0054
+            massacre  	---	  0.0052
+               turks  	---	  0.0052
+topic 10:
+            doctrine  	---	  0.0156
+               faith  	---	  0.0116
+          pittsburgh  	---	  0.0098
+          conception  	---	  0.0062
+             baptism  	---	  0.0059
+               proof  	---	  0.0054
+              divine  	---	  0.0051
+             lucifer  	---	  0.0045
+                evil  	---	  0.0044
+             council  	---	  0.0043
+topic 11:
+                hose  	---	  0.0004
+                dork  	---	  0.0004
+       almanbsrhpcom  	---	  0.0002
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+                 bob  	---	  0.0000
+         thereabouts  	---	  0.0000
+topic 12:
+                blah  	---	  0.0229
+               round  	---	  0.0089
+                espn  	---	  0.0082
+               races  	---	  0.0054
+             removed  	---	  0.0051
+            presents  	---	  0.0048
+                 art  	---	  0.0043
+              annual  	---	  0.0042
+              points  	---	  0.0039
+                hulk  	---	  0.0039
+topic 13:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 14:
+             contact  	---	  0.0087
+               image  	---	  0.0079
+              period  	---	  0.0059
+           including  	---	  0.0056
+               earth  	---	  0.0055
+            machines  	---	  0.0055
+              images  	---	  0.0053
+           astronomy  	---	  0.0052
+               space  	---	  0.0046
+              flight  	---	  0.0043
+topic 15:
+           penalties  	---	  0.0101
+             scoring  	---	  0.0074
+              search  	---	  0.0071
+              league  	---	  0.0070
+             mormons  	---	  0.0068
+                 pen  	---	  0.0064
+                 van  	---	  0.0061
+             maynard  	---	  0.0061
+                 bob  	---	  0.0048
+             warrant  	---	  0.0047
+topic 16:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 17:
+          infallible  	---	  0.0124
+             meeting  	---	  0.0080
+                aids  	---	  0.0045
+            arrogant  	---	  0.0044
+         photography  	---	  0.0039
+         determining  	---	  0.0038
+             dislike  	---	  0.0036
+              temple  	---	  0.0036
+              smiley  	---	  0.0033
+             neutral  	---	  0.0031
+topic 18:
+                 den  	---	  0.0280
+              mormon  	---	  0.0136
+               modem  	---	  0.0122
+               grace  	---	  0.0113
+             blessed  	---	  0.0068
+              fairly  	---	  0.0066
+             sqrtden  	---	  0.0049
+        pxpxpypypzpz  	---	  0.0049
+               kevin  	---	  0.0048
+                doug  	---	  0.0047
+topic 19:
+                east  	---	  0.0099
+           spherical  	---	  0.0080
+            revolver  	---	  0.0072
+                cops  	---	  0.0057
+            shooting  	---	  0.0053
+       understanding  	---	  0.0049
+              target  	---	  0.0042
+             surface  	---	  0.0040
+            semiauto  	---	  0.0039
+               yeast  	---	  0.0036
+topic 20:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 21:
+               input  	---	  0.0086
+              module  	---	  0.0071
+       motorcyclists  	---	  0.0048
+           databases  	---	  0.0041
+              banned  	---	  0.0040
+             deskjet  	---	  0.0040
+               brady  	---	  0.0038
+              umpire  	---	  0.0036
+               gates  	---	  0.0035
+            reactors  	---	  0.0035
+topic 22:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+                 liu  	---	  0.0000
+topic 23:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 24:
+                 use  	---	  0.0088
+            software  	---	  0.0071
+                 bit  	---	  0.0069
+              please  	---	  0.0066
+           available  	---	  0.0066
+               email  	---	  0.0065
+              thanks  	---	  0.0062
+                bits  	---	  0.0059
+            computer  	---	  0.0057
+              system  	---	  0.0056
+topic 25:
+                gods  	---	  0.0089
+             gravity  	---	  0.0083
+              starts  	---	  0.0063
+                 eve  	---	  0.0055
+           scientist  	---	  0.0044
+               angel  	---	  0.0038
+          simulation  	---	  0.0036
+                draw  	---	  0.0036
+              breaks  	---	  0.0035
+           rectangle  	---	  0.0034
+topic 26:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 27:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 28:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+            pathname  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+topic 29:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 30:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 31:
+                tiff  	---	  0.0078
+                 bed  	---	  0.0052
+               boxer  	---	  0.0027
+              waited  	---	  0.0025
+                desk  	---	  0.0024
+             fortune  	---	  0.0023
+              shiver  	---	  0.0023
+           interfere  	---	  0.0023
+               reins  	---	  0.0022
+              beaten  	---	  0.0021
+topic 32:
+                byte  	---	  0.0349
+           assembled  	---	  0.0112
+             horizon  	---	  0.0093
+             convert  	---	  0.0056
+                thou  	---	  0.0055
+                 ptr  	---	  0.0052
+              speech  	---	  0.0045
+             handled  	---	  0.0038
+               endif  	---	  0.0036
+                 int  	---	  0.0035
+topic 33:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 34:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 35:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 36:
+              church  	---	  0.0357
+             exhibit  	---	  0.0097
+              devils  	---	  0.0088
+            churches  	---	  0.0087
+                 cal  	---	  0.0059
+              origin  	---	  0.0057
+                rome  	---	  0.0053
+         conclusions  	---	  0.0052
+              median  	---	  0.0051
+            orthodox  	---	  0.0051
+topic 37:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 38:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 39:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 40:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 41:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+                 liu  	---	  0.0000
+topic 42:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 43:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 44:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 45:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 46:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 47:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 48:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 49:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+            giberish  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 50:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 51:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 52:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 53:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 54:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 55:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 56:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 57:
+             physics  	---	  0.0164
+              finite  	---	  0.0065
+             violent  	---	  0.0051
+               wings  	---	  0.0050
+          electrical  	---	  0.0045
+               atoms  	---	  0.0045
+            winbench  	---	  0.0039
+                bait  	---	  0.0039
+                 map  	---	  0.0038
+              motion  	---	  0.0035
+topic 58:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 59:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 60:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 61:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 62:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 63:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 64:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 65:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 66:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 67:
+              priest  	---	  0.0071
+               parts  	---	  0.0065
+                lock  	---	  0.0054
+               canon  	---	  0.0051
+               honda  	---	  0.0046
+            thursday  	---	  0.0044
+                pole  	---	  0.0037
+          appearance  	---	  0.0037
+                pres  	---	  0.0037
+                 vdc  	---	  0.0036
+topic 68:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 69:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 70:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 71:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 72:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 73:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 74:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 75:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 76:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 77:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 78:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 79:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 80:
+               picks  	---	  0.0093
+                 mlb  	---	  0.0018
+     iomainemaineedu  	---	  0.0015
+            marginal  	---	  0.0009
+              murray  	---	  0.0009
+            winfield  	---	  0.0009
+             handing  	---	  0.0009
+               eddie  	---	  0.0009
+                fame  	---	  0.0009
+             belongs  	---	  0.0008
+topic 81:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 82:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 83:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 84:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 85:
+               fonts  	---	  0.0016
+               grasp  	---	  0.0002
+        multilingual  	---	  0.0001
+             hinting  	---	  0.0001
+                 atm  	---	  0.0001
+     problematically  	---	  0.0001
+          inaccurate  	---	  0.0001
+            truetype  	---	  0.0001
+            gorgeous  	---	  0.0001
+     typographically  	---	  0.0001
+topic 86:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 87:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 88:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+         muftiplscom  	---	  0.0000
+topic 89:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 90:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 91:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 92:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 93:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 94:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 95:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 96:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+         muftiplscom  	---	  0.0000
+               mufti  	---	  0.0000
+            pathname  	---	  0.0000
+topic 97:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+topic 98:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+              issort  	---	  0.0000
+         thereabouts  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
+               mufti  	---	  0.0000
+topic 99:
+               vinyl  	---	  0.0000
+          microstrip  	---	  0.0000
+           phenomena  	---	  0.0000
+          brainstorm  	---	  0.0000
+      predestination  	---	  0.0000
+         thereabouts  	---	  0.0000
+              issort  	---	  0.0000
+               mufti  	---	  0.0000
+         muftiplscom  	---	  0.0000
+            pathname  	---	  0.0000
